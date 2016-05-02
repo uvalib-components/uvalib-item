@@ -1,0 +1,27 @@
+{
+  "name": "uvalib-item",
+  "version": "1.0.7",
+  "authors": [
+    "Jack Kelly <jlk4p@virginia.edu>"
+  ],
+  "description": "A flexible item web component that can represent any catalog/article result.",
+  "keywords": [
+    "web-component",
+    "polymer",
+    "seed"
+  ],
+  "main": "uvalib-item.html",
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/uvalib-components/uvalib-item",
+  "ignore": [
+    "/.*",
+    "/test/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.2.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "web-component-tester": "^4.0.0"
+  }
+}
