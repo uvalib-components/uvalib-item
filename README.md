@@ -2,6 +2,8 @@
 
 A flexible item web component that can represent any catalog/article result.
 
+_[Demo and API docs](https://uvalib-components.github.io/uvalib-item)_
+
 ## Dependencies
 
 Element dependencies are managed via [Bower](http://bower.io/). You can
